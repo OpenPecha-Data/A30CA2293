@@ -1,0 +1,26 @@
+segment_sources:
+  I4E60DA24:
+    type: origin_type
+    relation: translation
+    language: en
+  IF842CEAF:
+    type: origin_type
+    relation: translation
+    language: zh
+  ICC8CE0A8:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  23054fd2f62f4ae795f0e570713a7323:
+    I4E60DA24: 04db894327cb423da31dcaffc2c876da
+    IF842CEAF: aed0b9c5f54e4234bdcb3e638e9a1cc6
+    ICC8CE0A8: 224f482d65ac4c76b0e9183c23572151
+  a5eba9ba62e04b5fab5376d4003aeb2f:
+    I4E60DA24: 73cadfe1994a4ff69abb4f714effbb79
+    IF842CEAF: 97024774eee64b84ba6a6144b42c9a8a
+    ICC8CE0A8: 43e6079522fb4dc88676016c4f7becc5
+  74d96befc230449e9e049c41b8009438:
+    I4E60DA24: 85102b6435a54febaca4e56b736ff03e
+    IF842CEAF: 15a9d25d0fa44dd9bfc23cd2bfa53edb
+    ICC8CE0A8: b02f2d1d55b14b7f94c88bd8d654e157
